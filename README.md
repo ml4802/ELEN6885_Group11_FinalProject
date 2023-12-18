@@ -14,3 +14,5 @@ pip install -e .
 
 Replace the lumberjacks.py file in the library with the file in this 'env' folder. 
 Our environment modifies the original lumberjacks to fully implement walls/obstacles.
+
+Some code based off https://github.com/koulanurag/minimal-marl implementation
